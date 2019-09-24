@@ -46,6 +46,8 @@ Aug 2019 - Data-driven Online Optimization of Parking Location Placement and Tru
   
 Teaching
 ======
+Stony Brook University ESE123: Introduction to Electrical Engineering, Teaching Assistant
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
