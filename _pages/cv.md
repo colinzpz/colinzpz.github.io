@@ -36,6 +36,10 @@ Publications
   
 Talks
 ======
+Jan 2018 - Integrating Wireless Charging and Machine Learning into Wireless Sensor Networks,  Dalian University, Dalian
+
+Aug 2019 - Data-driven Online Optimization of Parking Location Placement and Truthful Incentivizing Mechanisms, The 3rd ACM Chongqing IntelliSense and Advanced Computing Frontier Seminar, Chongqing University and Southwest University, Chongqing
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
