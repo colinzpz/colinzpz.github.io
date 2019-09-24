@@ -11,32 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Shanghai Jiao Tong University, 2014
-* Ph.D in Electrical and Computer Engineering, Stony Brook University, 2014 till now
+* B.S in Both Applied Mathematics and Applied Physics in Shanghai Jiao Tong University, 2010-2014
+* Ph.D in Electrical and Computer Engineering, Stony Brook University, 2014-now
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
+[IJCAI' 19] Pengzhan Zhou, Xin Wei, Cong Wang, Yuanyuan Yang, Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy, International Joint Conferences on Artificial Intelligence (IJCAI), Macau, 2019. (Acceptance Rate: 17.9%)
+
+
+[INFOCOM' 19] Pengzhan Zhou, Cong Wang, Yuanyuan Yang, Self-sustainable Sensor Networks with Multi-source Energy Harvesting and Wireless Charging, IEEE International Conference on Computer Communications, Paris, France, 2019. (Acceptance Rate: 19.7%)
+
+[TMC' 19] Pengzhan Zhou, Cong Wang, Yuanyuan Yang, Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks, IEEE Transactions on Mobile Computing, Accepted to appear.
+
+[IWQoS' 18] Yiming Zeng, Pengzhan Zhou, Ji Liu, Yuanyuan Yang, A Stackelberg Game Framework for Mobile Data Gathering in Leasing Residential Sensor Networks,  IEEE/ACM International Symposium on Quality of Service, Banff, Canada, 2018.
+
+[GLOBECOM' 18] Yiming Zeng, Pengzhan Zhou, Ji Liu, Yuanyuan Yang, Modeling Dishonest Behavior in Mobile Data Gathering Over Leasing Residential Sensor Networks, IEEE Global Communications Conference, Abu Dhabi, UAE, 2018.
+
+[ICDCS' 17] Pengzhan Zhou, Cong Wang and Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. [Acceptance Rate: 16.8%]
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
