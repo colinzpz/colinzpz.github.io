@@ -30,9 +30,7 @@ Publications
 
 [ICDCS' 17] Pengzhan Zhou, Cong Wang and Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. [Acceptance Rate: 16.8%]
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
