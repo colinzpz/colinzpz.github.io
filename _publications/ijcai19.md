@@ -2,7 +2,7 @@
 title: "Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy"
 collection: publications
 permalink: /publication/ijcai19
-excerpt: ''
+excerpt: 'sadfasdfas'
 date: 2009-10-01
 venue: ' International Joint Conferences on Artificial Intelligence (IJCAI)'
 paperurl: 'https://www.ijcai.org/proceedings/2019/0094.pdf'
