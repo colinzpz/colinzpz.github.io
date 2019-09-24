@@ -20,7 +20,6 @@ Publications
 ======
 [IJCAI' 19] Pengzhan Zhou, Xin Wei, Cong Wang, Yuanyuan Yang, Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy, International Joint Conferences on Artificial Intelligence (IJCAI), Macau, 2019. (Acceptance Rate: 17.9%)
 
-
 [INFOCOM' 19] Pengzhan Zhou, Cong Wang, Yuanyuan Yang, Self-sustainable Sensor Networks with Multi-source Energy Harvesting and Wireless Charging, IEEE International Conference on Computer Communications, Paris, France, 2019. (Acceptance Rate: 19.7%)
 
 [TMC' 19] Pengzhan Zhou, Cong Wang, Yuanyuan Yang, Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks, IEEE Transactions on Mobile Computing, Accepted to appear.
