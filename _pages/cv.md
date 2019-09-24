@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.S in Both Applied Mathematics and Applied Physics in Shanghai Jiao Tong University, 2010-2014
+  *Sep., 2010 - June, 2014	   I am elected to study in  Zhiyuan College (an honor class for gifted students in Shanghai Jiao Tong University chosen from all over China).
+  *Oct.,  2013 - June, 2014    Study network under Professor  Xinbing Wang’s guidance in Shanghai Jiao Tong University as a student.
 * Ph.D in Electrical and Computer Engineering, Stony Brook University, 2014-now
 
 
