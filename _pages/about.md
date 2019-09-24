@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Pengzhan Zhou's home on the web! I am studying and doing research under the guidance of  Prof. Yuanyuan Yang at Stony Brook University. My research interests include artificial intelligence, computational economy, combinatorial optimization, incentivizing mechanisms and algorithms.
+This is Pengzhan Zhou's homepage! I am a Ph.D. candidate studying and doing research under the guidance of  Prof. Yuanyuan Yang at Stony Brook University. My research interests include artificial intelligence, computational economy, combinatorial optimization, incentivizing mechanisms and algorithms.
