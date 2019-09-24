@@ -12,4 +12,4 @@ Incentives are explored in the sharing economy to inspire users for better resou
 
 [Download paper here](https://www.ijcai.org/proceedings/2019/0094.pdf)
 
-Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Pengzhan Zhou, Xin Wei, Cong Wang, Yuanyuan Yang. "Paper Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy." <i>International Joint Conferences on Artificial Intelligence (IJCAI)</i>. Macau, 2019.
