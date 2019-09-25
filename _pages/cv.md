@@ -24,7 +24,7 @@ Publications
 
 [INFOCOM' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Self-sustainable Sensor Networks with Multi-source Energy Harvesting and Wireless Charging, IEEE International Conference on Computer Communications, Paris, France, 2019. (Acceptance Rate: 19.7%)
 
-[TMC' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks, IEEE Transactions on Mobile Computing, Accepted to appear.
+[TMC' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks, IEEE Transactions on Mobile Computing, Oct. 2019.
 
 [IWQoS' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, A Stackelberg Game Framework for Mobile Data Gathering in Leasing Residential Sensor Networks,  IEEE/ACM International Symposium on Quality of Service, Banff, Canada, 2018.
 
