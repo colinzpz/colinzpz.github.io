@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S in Both Applied Mathematics and Applied Physics in Shanghai Jiao Tong University (I am elected to study in Zhiyuan College, an honor class for gifted students in Shanghai Jiao Tong University chosen from all over China), 2010-2014
+* B.S in both Applied Mathematics and Applied Physics in Shanghai Jiao Tong University (I am elected to study in Zhiyuan College, an honor class for gifted students in Shanghai Jiao Tong University chosen from all over China), 2010-2014
 * Ph.D in Electrical and Computer Engineering, Stony Brook University, 2014-now
 
 
@@ -41,7 +41,7 @@ Aug 2019 - Data-driven Online Optimization of Parking Location Placement and Tru
   
 Teaching
 ======
-Stony Brook University ESE123: Introduction to Electrical Engineering, Teaching Assistant
+Fall 2014 - Spring 2017 Stony Brook University ESE123: Introduction to Electrical Engineering, Teaching Assistant
 
   
 Academic Service
