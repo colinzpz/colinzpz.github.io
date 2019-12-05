@@ -18,6 +18,8 @@ Education
 
 Publications
 ======
+[INFOCOM' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design and Optimization of Electric Autonomous Vehicles with Renewable Energy Source for Smart Cities, IEEE International Conference on Computer Communications, Beijing, China, 2020. (Acceptance Rate: 19.8%)
+
 [IJCAI' 19] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy, International Joint Conferences on Artificial Intelligence (IJCAI), Macau, 2019. (Acceptance Rate: 17.9%)
 
 [INFOCOM' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Self-sustainable Sensor Networks with Multi-source Energy Harvesting and Wireless Charging, IEEE International Conference on Computer Communications, Paris, France, 2019. (Acceptance Rate: 19.7%)
