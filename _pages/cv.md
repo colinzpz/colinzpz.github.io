@@ -18,6 +18,8 @@ Education
 
 Publications
 ======
+[IPDPS' 20] Cong Wang. Xin Wei, **Pengzhan Zhou**, Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices, IEEE International Parallel & Distributed Processing Symposium, New Orleans, Louisiana, U.S., 2020.
+
 [INFOCOM' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design and Optimization of Electric Autonomous Vehicles with Renewable Energy Source for Smart Cities, IEEE International Conference on Computer Communications, Beijing, China, 2020. (Acceptance Rate: 19.8%)
 
 [IJCAI' 19] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy, International Joint Conferences on Artificial Intelligence (IJCAI), Macau, 2019. (Acceptance Rate: 17.9%)
@@ -30,7 +32,7 @@ Publications
 
 [GLOBECOM' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, Modeling Dishonest Behavior in Mobile Data Gathering Over Leasing Residential Sensor Networks, IEEE Global Communications Conference, Abu Dhabi, UAE, 2018.
 
-[ICDCS' 17] **Pengzhan Zhou**, Cong Wang and Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. [Acceptance Rate: 16.8%]
+[ICDCS' 17] **Pengzhan Zhou**, Cong Wang and Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, U.S., 2017. [Acceptance Rate: 16.8%]
 
 
   
