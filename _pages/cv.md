@@ -47,6 +47,8 @@ Teaching
 ======
 Fall 2014 - Spring 2017 Stony Brook University ESE123: Introduction to Electrical Engineering, Teaching Assistant
 
+Spring 2020 Stony Brook University ESE 124： Programming Fundamentals, Teaching Assistant
+
   
 Academic Service
 ======
