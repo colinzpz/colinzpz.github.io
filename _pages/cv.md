@@ -18,6 +18,8 @@ Education
 
 Publications
 ======
+[ICDCS' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Xin Wei, E-Sharing: Data-driven Online Optimization of Parking Location Placement for Dockless Electric Bike Sharing, IEEE International Conference on Distributed Computing Systems, Singapore, 2020. (Acceptance Rate: 18.0%)
+
 [IPDPS' 20] Cong Wang, Xin Wei, **Pengzhan Zhou**, Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices, IEEE International Parallel & Distributed Processing Symposium, New Orleans, LA, 2020.
 
 [INFOCOM' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design and Optimization of Electric Autonomous Vehicles with Renewable Energy Source for Smart Cities, IEEE International Conference on Computer Communications, Beijing, China, 2020. (Acceptance Rate: 19.8%)
