@@ -34,7 +34,7 @@ Publications
 
 [GLOBECOM' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, Modeling Dishonest Behavior in Mobile Data Gathering Over Leasing Residential Sensor Networks, IEEE Global Communications Conference, Abu Dhabi, UAE, 2018.
 
-[ICDCS' 17] **Pengzhan Zhou**, Cong Wang and Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. [Acceptance Rate: 16.8%]
+[ICDCS' 17] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. (Acceptance Rate: 16.8%)
 
 
   
