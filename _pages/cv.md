@@ -54,5 +54,5 @@ Spring 2020, Stony Brook University, ESE124: Programming Fundamentals, Teaching 
   
 Academic Service
 ======
-* Journal Review: TMC, TCC, JPDC, IJDSN
+* Journal Review: TMC, TPDS, TCC, JPDC, IJDSN
 * Conference Review: INFOCOM, ICDCS, ICPP, ICPADS, GLOBECOM, ICC, IEEE ACCESS
