@@ -44,6 +44,8 @@ Jan 2018 - Integrating Wireless Charging and Machine Learning into Wireless Sens
 
 Aug 2019 - Data-driven Online Optimization of Parking Location Placement and Truthful Incentivizing Mechanisms, The 3rd ACM Chongqing IntelliSense and Advanced Computing Frontier Seminar, Chongqing University and Southwest University, Chongqing
 
+Oct 2019 - Data-driven Online Optimization of Parking Placement and Truthful Incentivizing for Electric Bike Sharing, The 4th Youth Forum on Frontiers of Computing, Peking University, Beijing
+
   
 Teaching
 ======
