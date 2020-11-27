@@ -18,6 +18,8 @@ Education
 
 Publications
 ======
+[TPDS' 20] Cong Wang, Yuanyuan Yang, **Pengzhan Zhou**, Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity, IEEE Transactions on Parallel and Distributed Systems.
+
 [ICDCS' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Xin Wei, E-Sharing: Data-driven Online Optimization of Parking Location Placement for Dockless Electric Bike Sharing, IEEE International Conference on Distributed Computing Systems, Singapore, 2020. (Acceptance Rate: 18.0%)
 
 [IPDPS' 20] Cong Wang, Xin Wei, **Pengzhan Zhou**, Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices, IEEE International Parallel & Distributed Processing Symposium, New Orleans, LA, 2020.
