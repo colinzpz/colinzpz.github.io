@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S in both Applied Mathematics and Applied Physics in Shanghai Jiao Tong University (I am elected to study in Zhiyuan College, an honor class for gifted students in Shanghai Jiao Tong University chosen from all over China), 2010-2014
-* Ph.D in Electrical and Computer Engineering, Stony Brook University, 2014-now
+* Ph.D in Electrical and Computer Engineering, Stony Brook University, 2014-2020
 
 
 
