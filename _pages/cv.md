@@ -18,7 +18,9 @@ Education
 
 Publications
 ======
-[TPDS' 20] Cong Wang, Yuanyuan Yang, **Pengzhan Zhou**, Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity, IEEE Transactions on Parallel and Distributed Systems.
+[TOSN' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design of Self-sustainable Wireless Sensor Networks with Energy Harvesting and Wireless Charging, ACM Transactions on Sensor Networks. Accepted to Appear.
+
+[TPDS' 20] Cong Wang, Yuanyuan Yang, **Pengzhan Zhou**, Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity, IEEE Transactions on Parallel and Distributed Systems. 32, no. 2 (2020): 394-410. 
 
 [ICDCS' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Xin Wei, E-Sharing: Data-driven Online Optimization of Parking Location Placement for Dockless Electric Bike Sharing, IEEE International Conference on Distributed Computing Systems, Singapore, 2020. (Acceptance Rate: 18.0%)
 
@@ -30,7 +32,7 @@ Publications
 
 [INFOCOM' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Self-sustainable Sensor Networks with Multi-source Energy Harvesting and Wireless Charging, IEEE International Conference on Computer Communications, Paris, France, 2019. (Acceptance Rate: 19.7%)
 
-[TMC' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks, IEEE Transactions on Mobile Computing, Oct. 2019.
+[TMC' 18] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks, IEEE Transactions on Mobile Computing, 18, no. 10 (2018): 2430-2445.
 
 [IWQoS' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, A Stackelberg Game Framework for Mobile Data Gathering in Leasing Residential Sensor Networks,  IEEE/ACM International Symposium on Quality of Service, Banff, Canada, 2018.
 
