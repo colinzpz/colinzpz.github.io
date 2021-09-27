@@ -18,6 +18,8 @@ Education
 
 Publications
 ======
+[TMC' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design and Optimization of Solar-Powered Shared Electric Autonomous Vehicle System for Smart Cities, IEEE Transactions on Mobile Computing. Accepted to Appear.
+
 [TC' 21] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem, IEEE Transactions on Computers. Accepted to Appear.
 
 [TOSN' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design of Self-sustainable Wireless Sensor Networks with Energy Harvesting and Wireless Charging, ACM Transactions on Sensor Networks. 17, no. 4 (2021): 1-38.
