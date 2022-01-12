@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Pengzhan Zhou's homepage! I have been awarded the Ph.D. degree under the guidance of  Prof. Yuanyuan Yang at Stony Brook University. My research interests include wireless sensor networks, internet of things, algorithms, combinatorial optimization, and artificial intelligence.
+This is the homepage of Pengzhan Zhou (Chinese:周鹏展)! I am a professor in the College of Computer Science at Chongqing University. I was awarded the Ph.D. degree under the guidance of  Prof. Yuanyuan Yang at Stony Brook University. My research interests include internet of things, reinforcement learning, federated learning, and incentivizing mechanism.
 
-Welcome to contact me at colinzpz@gmail.com.
+Welcome to contact me at pzzhou@cqu.edu.cn .
