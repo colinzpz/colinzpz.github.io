@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-[TMC' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Design and Optimization of Solar-Powered Shared Electric Autonomous Vehicle System for Smart Cities](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tmc21.pdf), IEEE Transactions on Mobile Computing. Accepted to Appear.
+[TMC' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design and Optimization of Solar-Powered Shared Electric Autonomous Vehicle System for Smart Cities, IEEE Transactions on Mobile Computing. Accepted to Appear. [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tmc21.pdf)
 
 [TC' 21] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, [k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tc21.pdf), IEEE Transactions on Computers. Accepted to Appear.
 
