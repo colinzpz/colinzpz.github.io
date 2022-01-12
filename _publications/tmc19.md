@@ -12,3 +12,4 @@ Energy remains a major hurdle in running computation-intensive tasks on wireless
 
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8476204)
 
+Recommended citation: Pengzhan Zhou, Cong Wang, Yuanyuan Yang. "Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks." <i>IEEE Transactions on Mobile Computing (TMC)</i>. 18, no. 10 (2018): 2430-2445.
