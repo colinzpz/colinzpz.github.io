@@ -38,11 +38,11 @@ Publications
 
 [TMC' 18] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tmc18.pdf), IEEE Transactions on Mobile Computing, 18, no. 10 (2018): 2430-2445.
 
-[IWQoS' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, A Stackelberg Game Framework for Mobile Data Gathering in Leasing Residential Sensor Networks,  IEEE/ACM International Symposium on Quality of Service, Banff, Canada, 2018.
+[IWQoS' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, [A Stackelberg Game Framework for Mobile Data Gathering in Leasing Residential Sensor Networks](http://iwqos2018.ieee-iwqos.org/files/2018/05/A_Stackelberg_Game_Framework.pdf),  IEEE/ACM International Symposium on Quality of Service, Banff, Canada, 2018.
 
-[GLOBECOM' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, Modeling Dishonest Behavior in Mobile Data Gathering Over Leasing Residential Sensor Networks, IEEE Global Communications Conference, Abu Dhabi, UAE, 2018.
+[GLOBECOM' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, [Modeling Dishonest Behavior in Mobile Data Gathering Over Leasing Residential Sensor Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8647506), IEEE Global Communications Conference, Abu Dhabi, UAE, 2018.
 
-[ICDCS' 17] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. (Acceptance Rate: 16.8%)
+[ICDCS' 17] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Leverage Target k-Coverage in Wireless Rechargeable Sensor Network](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/icdcs17.pdf), IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. (Acceptance Rate: 16.8%)
 
 
   
