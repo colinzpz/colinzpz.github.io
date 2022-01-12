@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pengzhan Zhou"
   avatar           : "profile.png"
-  bio              : "Ph.D. Graduate of Stony Brook"
-  location         : "Long Island, New York"
+  bio              : "Professor at Chongqing University, Ph.D. Graduate of Stony Brook"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6wjtLk4AAAAJ&hl=en&oi=ao"
-  email            :  "pengzhan.zhou@stonybrook.edu"
+  email            :  "pzzhou@cqu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
