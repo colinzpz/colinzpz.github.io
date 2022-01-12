@@ -64,6 +64,6 @@ Spring 2020, Stony Brook University, ESE124: Programming Fundamentals, Teaching 
   
 Academic Service
 ======
-* Program Committee (Workshop): ECAISS@MSN'20
+* Program Committee: ECAISS@MSN'20
 * Journal Review: TMC, TPDS, TCC, JPDC, IJDSN, IEEE ACCESS
 * Conference Review: INFOCOM, ICDCS, ICPP, ICPADS, GLOBECOM, ICC
