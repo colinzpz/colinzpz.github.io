@@ -20,29 +20,29 @@ Publications
 ======
 [TMC' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design and Optimization of Solar-Powered Shared Electric Autonomous Vehicle System for Smart Cities, IEEE Transactions on Mobile Computing. Accepted to Appear. [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tmc21.pdf)
 
-[TC' 21] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, [k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tc21.pdf), IEEE Transactions on Computers. Accepted to Appear.
+[TC' 21] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem, IEEE Transactions on Computers. Accepted to Appear. [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tc21.pdf)
 
-[TOSN' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Design of Self-sustainable Wireless Sensor Networks with Energy Harvesting and Wireless Charging](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tosn21.pdf), ACM Transactions on Sensor Networks. 17, no. 4 (2021): 1-38.
+[TOSN' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design of Self-sustainable Wireless Sensor Networks with Energy Harvesting and Wireless Charging, ACM Transactions on Sensor Networks. 17, no. 4 (2021): 1-38. [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tosn21.pdf)
 
-[TPDS' 20] Cong Wang, Yuanyuan Yang, **Pengzhan Zhou**, [Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity](https://arxiv.org/abs/2005.12326), IEEE Transactions on Parallel and Distributed Systems. 32, no. 2 (2020): 394-410. 
+[TPDS' 20] Cong Wang, Yuanyuan Yang, **Pengzhan Zhou**, Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity, IEEE Transactions on Parallel and Distributed Systems. 32, no. 2 (2020): 394-410. [View paper](https://arxiv.org/abs/2005.12326)
 
-[ICDCS' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Xin Wei, [E-Sharing: Data-driven Online Optimization of Parking Location Placement for Dockless Electric Bike Sharing](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/icdcs20.pdf), IEEE International Conference on Distributed Computing Systems, Singapore, 2020. (Acceptance Rate: 18.0%)
+[ICDCS' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Xin Wei, E-Sharing: Data-driven Online Optimization of Parking Location Placement for Dockless Electric Bike Sharing, IEEE International Conference on Distributed Computing Systems, Singapore, 2020. (Acceptance Rate: 18.0%) [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/icdcs20.pdf)
 
-[IPDPS' 20] Cong Wang, Xin Wei, **Pengzhan Zhou**, [Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices](https://par.nsf.gov/servlets/purl/10211639), IEEE International Parallel & Distributed Processing Symposium, New Orleans, LA, 2020.
+[IPDPS' 20] Cong Wang, Xin Wei, **Pengzhan Zhou**, Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices, IEEE International Parallel & Distributed Processing Symposium, New Orleans, LA, 2020. [View paper](https://par.nsf.gov/servlets/purl/10211639)
 
-[INFOCOM' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Design and Optimization of Electric Autonomous Vehicles with Renewable Energy Source for Smart Cities](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/infocom20.pdf), IEEE International Conference on Computer Communications, Beijing, China, 2020. (Acceptance Rate: 19.8%)
+[INFOCOM' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Design and Optimization of Electric Autonomous Vehicles with Renewable Energy Source for Smart Cities, IEEE International Conference on Computer Communications, Beijing, China, 2020. (Acceptance Rate: 19.8%) [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/infocom20.pdf)
 
-[IJCAI' 19] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, [Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy](https://www.ijcai.org/proceedings/2019/0094.pdf), International Joint Conferences on Artificial Intelligence (IJCAI), Macau, 2019. (Acceptance Rate: 17.9%)
+[IJCAI' 19] **Pengzhan Zhou**, Xin Wei, Cong Wang, Yuanyuan Yang, Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy, International Joint Conferences on Artificial Intelligence (IJCAI), Macau, 2019. (Acceptance Rate: 17.9%) [View paper](https://www.ijcai.org/proceedings/2019/0094.pdf)
 
-[INFOCOM' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Self-sustainable Sensor Networks with Multi-source Energy Harvesting and Wireless Charging](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/infocom19.pdf), IEEE International Conference on Computer Communications, Paris, France, 2019. (Acceptance Rate: 19.7%)
+[INFOCOM' 19] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Self-sustainable Sensor Networks with Multi-source Energy Harvesting and Wireless Charging, IEEE International Conference on Computer Communications, Paris, France, 2019. (Acceptance Rate: 19.7%) [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/infocom19.pdf)
 
-[TMC' 18] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tmc18.pdf), IEEE Transactions on Mobile Computing, 18, no. 10 (2018): 2430-2445.
+[TMC' 18] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Static and Mobile Target k-Coverage in Wireless Rechargeable Sensor Networks, IEEE Transactions on Mobile Computing, 18, no. 10 (2018): 2430-2445. [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tmc18.pdf)
 
-[IWQoS' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, [A Stackelberg Game Framework for Mobile Data Gathering in Leasing Residential Sensor Networks](http://iwqos2018.ieee-iwqos.org/files/2018/05/A_Stackelberg_Game_Framework.pdf),  IEEE/ACM International Symposium on Quality of Service, Banff, Canada, 2018.
+[IWQoS' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, A Stackelberg Game Framework for Mobile Data Gathering in Leasing Residential Sensor Networks,  IEEE/ACM International Symposium on Quality of Service, Banff, Canada, 2018. [View paper](http://iwqos2018.ieee-iwqos.org/files/2018/05/A_Stackelberg_Game_Framework.pdf)
 
-[GLOBECOM' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, [Modeling Dishonest Behavior in Mobile Data Gathering Over Leasing Residential Sensor Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8647506), IEEE Global Communications Conference, Abu Dhabi, UAE, 2018.
+[GLOBECOM' 18] Yiming Zeng, **Pengzhan Zhou**, Ji Liu, Yuanyuan Yang, Modeling Dishonest Behavior in Mobile Data Gathering Over Leasing Residential Sensor Networks, IEEE Global Communications Conference, Abu Dhabi, UAE, 2018. [View paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8647506)
 
-[ICDCS' 17] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Leverage Target k-Coverage in Wireless Rechargeable Sensor Network](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/icdcs17.pdf), IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. (Acceptance Rate: 16.8%)
+[ICDCS' 17] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Leverage Target k-Coverage in Wireless Rechargeable Sensor Network, IEEE International Conference on Distributed Computing Systems, Atlanta, GA, 2017. (Acceptance Rate: 16.8%) [View paper](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/icdcs17.pdf)
 
 
   
