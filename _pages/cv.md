@@ -24,11 +24,11 @@ Publications
 
 [TOSN' 21] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Design of Self-sustainable Wireless Sensor Networks with Energy Harvesting and Wireless Charging](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tosn21.pdf), ACM Transactions on Sensor Networks. 17, no. 4 (2021): 1-38.
 
-[TPDS' 20] Cong Wang, Yuanyuan Yang, **Pengzhan Zhou**, Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity, IEEE Transactions on Parallel and Distributed Systems. 32, no. 2 (2020): 394-410. 
+[TPDS' 20] Cong Wang, Yuanyuan Yang, **Pengzhan Zhou**, [Towards Efficient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity](https://arxiv.org/abs/2005.12326), IEEE Transactions on Parallel and Distributed Systems. 32, no. 2 (2020): 394-410. 
 
 [ICDCS' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, Xin Wei, [E-Sharing: Data-driven Online Optimization of Parking Location Placement for Dockless Electric Bike Sharing](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/icdcs20.pdf), IEEE International Conference on Distributed Computing Systems, Singapore, 2020. (Acceptance Rate: 18.0%)
 
-[IPDPS' 20] Cong Wang, Xin Wei, **Pengzhan Zhou**, Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices, IEEE International Parallel & Distributed Processing Symposium, New Orleans, LA, 2020.
+[IPDPS' 20] Cong Wang, Xin Wei, **Pengzhan Zhou**, [Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices](https://par.nsf.gov/servlets/purl/10211639), IEEE International Parallel & Distributed Processing Symposium, New Orleans, LA, 2020.
 
 [INFOCOM' 20] **Pengzhan Zhou**, Cong Wang, Yuanyuan Yang, [Design and Optimization of Electric Autonomous Vehicles with Renewable Energy Source for Smart Cities](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/infocom20.pdf), IEEE International Conference on Computer Communications, Beijing, China, 2020. (Acceptance Rate: 19.8%)
 
