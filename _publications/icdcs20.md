@@ -12,4 +12,4 @@ The rise of dockless electric bike sharing becomes a new urban lifestyle recentl
 
 [Download paper here](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/icdcs20.pdf)
 
-Recommended citation: Pengzhan Zhou, Cong Wang, Yuanyuan Yang. "Design and Optimization of Electric Autonomous Vehicles with Renewable Energy Source for Smart Cities." <i>IEEE International Conference on Computer Communications (INFOCOM)</i>. Virtual Conference. 2020.
+Recommended citation: Pengzhan Zhou, Cong Wang, Yuanyuan Yang. "E-Sharing: Data-driven Online Optimization of Parking Location Placement for Dockless Electric Bike Sharing." <i>IEEE International Conference on Distributed Computing Systems (ICDCS)</i>, pp. 474-484, 2020.
