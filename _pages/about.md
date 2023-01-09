@@ -12,4 +12,4 @@ This is the homepage of Pengzhan Zhou (Chinese:周鹏展). I am a professor in t
 
 You may also find me on my [Chinese homepage](http://www.cs.cqu.edu.cn/info/1322/5989.htm).
 
-Welcome to contact me at pzzhou@cqu.edu.cn .
+Welcome to contact me at pzzhou at cqu dot edu dot cn.
